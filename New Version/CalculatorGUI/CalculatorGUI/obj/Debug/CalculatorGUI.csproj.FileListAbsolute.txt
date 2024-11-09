@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\MainWindow.baml
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\MainWindow.g.cs
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\App.g.cs
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI_MarkupCompile.cache
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.g.resources
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\andre\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
