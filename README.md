@@ -6,3 +6,6 @@
 
 ## About project
 I decided to start creating my own GUI calculator to explore the WinForms platform. The project is not complicated, but I spent 2 whole days on it due to my laziness :3
+
+## Update from 11.10.2024
+I fixed the bug with incorrect text input. Added new functions such as: logarithm, natural logarithm, logarithm to the base 10, sine, cosine, tangent, cotangent, square root. Also made the interface more pleasant, and the API more correct.
