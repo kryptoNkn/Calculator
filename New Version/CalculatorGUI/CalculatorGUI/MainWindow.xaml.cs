@@ -21,7 +21,7 @@ namespace CalculatorGUI
             if (button != null)
             {
                 inputBox.Text += button.Content.ToString();
-                PlaceholderText.Visibility = Visibility.Collapsed; // Скрываем плейсхолдер
+                PlaceholderText.Visibility = Visibility.Collapsed; 
             }
         }
 
@@ -79,15 +79,14 @@ namespace CalculatorGUI
             firstNumber = 0;
             secondNumber = 0;
             operation = string.Empty;
-            PlaceholderText.Visibility = Visibility.Visible; // Показываем плейсхолдер при очистке
+            PlaceholderText.Visibility = Visibility.Visible; 
         }
 
-        // Добавляем обработчики для событий фокуса в TextBox
         private void InputBox_GotFocus(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(inputBox.Text))
             {
-                PlaceholderText.Visibility = Visibility.Collapsed; // Скрываем плейсхолдер при фокусе
+                PlaceholderText.Visibility = Visibility.Collapsed; 
             }
         }
 
@@ -95,11 +94,10 @@ namespace CalculatorGUI
         {
             if (string.IsNullOrEmpty(inputBox.Text))
             {
-                PlaceholderText.Visibility = Visibility.Visible; // Показываем плейсхолдер, если текст пуст
+                PlaceholderText.Visibility = Visibility.Visible; 
             }
         }
 
-        // Добавляем обработчик для кнопки точки
         private void DotButton_Click(object sender, RoutedEventArgs e)
         {
             if (!inputBox.Text.Contains("."))
